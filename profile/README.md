@@ -130,7 +130,7 @@ Với TravelGo, lệnh kiểm tra và quy trình frontend/API/database được 
 Khám phá hướng nghề nghiệp, chọn kỹ năng và nguồn học, tạo kế hoạch theo quỹ thời gian mỗi tuần và theo dõi tiến độ. Guest lưu cục bộ bằng IndexedDB; đăng nhập Google để lưu workspace theo tài khoản qua Supabase.
 
 <a href="https://uitplans.netlify.app/">
-  <img src="https://raw.githubusercontent.com/IS207-R11-Nhom5/.github/main/assets/uitplans-explore.png" alt="Giao diện Explore của uitplans đang chạy trên Netlify" width="100%">
+  <img src="https://raw.githubusercontent.com/IS207-R11-Nhom5/.github/main/assets/uitplans-ui-20261028/explore-hero.jpg" alt="Giao diện Explore của uitplans đang chạy trên Netlify" width="100%">
 </a>
 
 **Công nghệ:** React 19, TypeScript, Vite, CSS, IndexedDB, Supabase Auth/PostgreSQL và Netlify.

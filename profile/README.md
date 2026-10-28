@@ -27,11 +27,20 @@ Phân công chi tiết và trách nhiệm kiểm thử theo module được ghi 
 | Nội dung | Liên kết |
 | --- | --- |
 | Tài liệu và minh chứng chung | [Project Hub](https://github.com/haiphamt/is207-project-hub) |
-| Mini Project | [Mã nguồn uitplans](https://github.com/haiphamt/uitplans) · [Website](https://uitplans.netlify.app/) |
+| Mini Project | [uitplans trong Organization](https://github.com/PHP-Is-Awesome-IS207/uitplans) · [Mã nguồn gốc](https://github.com/haiphamt/uitplans) · [Website](https://uitplans.netlify.app/) |
 | Product Brief của Mini Project | [Notion uitplans](https://app.notion.com/p/3ee533490aed81f7ab5eee549942f2c3) |
-| Đồ án chính | [Mã nguồn TravelGo](https://github.com/haiphamt/TravelGo) · [Figma](https://www.figma.com/design/QYzdMjHKiquZjUAvHUdXhq/TravelGo?node-id=43-2) |
+| Đồ án chính | [TravelGo trong Organization](https://github.com/PHP-Is-Awesome-IS207/TravelGo) · [Mã nguồn gốc](https://github.com/haiphamt/TravelGo) · [Figma](https://www.figma.com/design/QYzdMjHKiquZjUAvHUdXhq/TravelGo?node-id=43-2) |
 | Sơ đồ uitplans | [Activity, Sequence và Flowchart](https://uitplans.netlify.app/events.html) |
 | Video kiểm soát AI và so sánh công cụ AI | [Google Drive](https://drive.google.com/drive/folders/1nuZU3G-NEcOPM4UF4fP5bB-GgAus5R40?usp=drive_link) |
+
+## Repository của nhóm
+
+| Dự án | Bản fork trong Organization | Repository phát triển gốc |
+| --- | --- | --- |
+| Mini Project uitplans | [PHP-Is-Awesome-IS207/uitplans](https://github.com/PHP-Is-Awesome-IS207/uitplans) | [haiphamt/uitplans](https://github.com/haiphamt/uitplans) |
+| Đồ án chính TravelGo | [PHP-Is-Awesome-IS207/TravelGo](https://github.com/PHP-Is-Awesome-IS207/TravelGo) | [haiphamt/TravelGo](https://github.com/haiphamt/TravelGo) |
+
+Hai repository trong Organization là **bản fork** để tập hợp và giới thiệu dự án trên trang nhóm. Các repository `haiphamt/uitplans` và `haiphamt/TravelGo` tiếp tục là nơi phát triển gốc; các đường dẫn mã nguồn đã nộp được giữ nguyên. Bản fork cần được đồng bộ khi repository gốc có cập nhật.
 
 Nhóm trao đổi nhanh qua Zalo, quản lý mã nguồn bằng GitHub và tổng hợp tài liệu Mini Project trên Notion. Antigravity là công cụ AI nhóm sử dụng chủ yếu; AI Development Log ghi đúng công cụ trong từng tương tác thực tế.
 
